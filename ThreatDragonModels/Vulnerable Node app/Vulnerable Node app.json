@@ -10,7 +10,13 @@
         "name": "dpnishant"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "Flow",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "dpnishant"
   }
 }
